@@ -17,8 +17,7 @@
  
 ### How to use See Sleep
 
-1. Upload your exported Apple Health data in XML format.
-(You can find sample data from the pages folder: sample.xml)     
+1. Upload your exported Apple Health data in XML format.    
 2. Explore and analyze your heart rate data using the interactive interface.
 3. Customize parameters such as date, bedtime, wake-up time, and resting heart rate.
 4. Visualize heart rate patterns and analyze insights from your sleep data.
