@@ -12,12 +12,13 @@
 ## Getting Started
 
 ### Accessing See Sleep
- "You can access See Sleep by copying the See Sleep URL"
- Follow below website: https://see-sleep.streamlit.app/
+ 
+ Follow this link: https://see-sleep.streamlit.app/
  
 ### How to use See Sleep
+
 1. Upload your exported Apple Health data in XML format.
-(You can use sample data from this github: sample.xml)     
+(You can find sample data from the pages folder: sample.xml)     
 2. Explore and analyze your heart rate data using the interactive interface.
 3. Customize parameters such as date, bedtime, wake-up time, and resting heart rate.
 4. Visualize heart rate patterns and analyze insights from your sleep data.
