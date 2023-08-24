@@ -1,15 +1,4 @@
 import streamlit as st
-from PIL import Image
-import lxml.etree as ET
-from datetime import datetime
-import pytz
-import numpy as np
-import pandas as pd
-
-import matplotlib.dates as mdates
-import matplotlib.pyplot as plt
-import plotly.express as px
-import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="Welcome to See Sleep",
@@ -48,10 +37,3 @@ st.write(
     4. Input your sleep-related parameters to view your heart rate data during your sleep 
     """
 )
-
-
-
-
-
-
-
