@@ -11,8 +11,27 @@
 
 ## Getting Started
 
-### Accessing See Sleep
- 
+### Accessing See Sleep 
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/alice3503/See-Sleep.git
+2. Change into the project directory:
+
+    ```bash
+    cd See-Sleep
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+4. Run the Streamlit app:
+
+    ```bash
+    pip install streamlit
+    streamlit run Home.py
+   
+ OR
  Follow this link: https://see-sleep.streamlit.app/
  
 ### How to use See Sleep
